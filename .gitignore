@@ -78,12 +78,3 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
-
-.idea/
-.vscode/
-.DS_Store
-*.lock
-!yarn.lock
-*.log
-out/
-dist/
