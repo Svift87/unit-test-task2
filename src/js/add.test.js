@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import sortPlayers from './add';
 
 test('input not an array throws', () => {
